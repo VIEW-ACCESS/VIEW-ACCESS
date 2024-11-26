@@ -1,6 +1,6 @@
 ## Hola a todos! 👋
 
-Mi nombre es Melisa, soy Diseñadora de Experiencia de Usuario.
+Mi nombre es Melisa, soy Diseñadora de Experiencia de Usuario.  
 Manejo distintas herramientas, tales como Figma, Photoshop, Adobe XD, Maze, Optimal Workshop, Whimsical, Canva, Illustrator, Framer, HTML, CSS, Visual Code, Jira, Monday, Asana, Trello.
 
 <!--
