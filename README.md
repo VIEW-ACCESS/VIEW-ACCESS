@@ -19,6 +19,8 @@ Manejo distintas herramientas, tales como:
 + Monday
 + Asana
 + Trello
++ Google Workspace
++ Click Up
 
 <!--
 **VIEW-ACCESS/VIEW-ACCESS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
